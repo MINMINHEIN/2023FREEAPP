@@ -2,16 +2,23 @@
    "files": [    
 {
 
-         "name": "SG-VPS-VIP-001",
+         "name": "TH-AIS-VIP-011",
 
-         "url": "https://raw.githubusercontent.com/chitsuma/pphvpn/main/SG-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-001.ovpn"
 
       },
 {
 
-         "name": "TH-GAME-VIP-011",
+         "name": "TH-AIS-VIP-012",
 
-         "url": "https://raw.githubusercontent.com/PHHACKBRO/PPH-VPN-PRO/main/TH-GAME-VIP-011.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-002.ovpn"
+
+      },
+{
+
+         "name": "TH-AIS-VIP-013",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-003.ovpn"
 
       },
 
@@ -118,7 +125,15 @@
        },
 {
          "name": "TH-FREE-AIS-006",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-006.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-006.ovpn"
+       },
+{
+         "name": "TH-FREE-AIS-007",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-007.ovpn"
+       },
+{
+         "name": "TH-FREE-AIS-008",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-008.ovpn"
        },
 
 {
@@ -135,12 +150,12 @@
          "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-003.ovpn"
        },
 {
-         "name": "US-ADS-FREE-004",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-004.ovpn"
+         "name": "US-AIS-FREE-004",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-AIS-FREE-004.ovpn"
        },
 {
          "name": "US-AIS-FREE-005",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-005.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-AIS-FREE-005.ovpn"
        },
 {
          "name": "SG-FREE-001",
@@ -162,14 +177,26 @@
       },
 {
          "name": "SG-FREE-005",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-005.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-004.ovpn"
+      },
+{
+         "name": "SG-AIS-FREE-006",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-AIS-FREE-006.ovpn"
+      },
+{
+         "name": "SG-AIS-FREE-007",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-AIS-FREE-007.ovpn"
+      },
+{
+         "name": "SG-AIS-FREE-008",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-AIS-FREE-008.ovpn"
       }
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 File📩\n•Version:5\n",
-   "title":"💌APK Version:1.3💌" ,
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 File📩\n•Version:6\n",
+   "title":"💌APK Version:1.6💌" ,
    "title":"Paing Paing Hein" ,
- "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 Free&VIP💌" ,
-   "version": 5
+ "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 True Dtac Ais Free&VIP💌" ,
+   "version": 6
 
 }
