@@ -2,190 +2,147 @@
    "files": [    
 {
 
-         "name": "TH-AIS-VIP-011",
+         "name": "TH-DTAC-90day-VIP-001",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-001.ovpn"
-
-      },
-{
-
-         "name": "TH-AIS-VIP-012",
-
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-001.ovpn"
 
       },
 {
 
-         "name": "TH-AIS-VIP-013",
+         "name": "TH-DTAC-90day-VIP-002",
 
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-VIP-003.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-002.ovpn"
 
       },
-
 {
 
-         "name": "TH-GAME-VIP-001",
+         "name": "TH-DTAC-90day-VIP-003",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-003.ovpn"
 
       },
 
 {
 
-         "name": "TH-GAME-VIP-002",
+         "name": "TH-DTAC-90day-VIP-004",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-002.ovpn"
-
-      },
-
-{
-
-         "name": "TH-GAME-VIP-003",
-
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-003.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-004.ovpn"
 
       },
 
 {
 
-         "name": "TH-GAME-VIP-004",
+         "name": "TH-DTAC-90day-VIP-005",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-004.ovpn"
-
-      },
-
-{
-
-         "name": "TH-GAME-VIP-005",
-
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-005.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-005.ovpn"
 
       },
 
 {
 
-         "name": "TH-GAME-VIP-006",
+         "name": "TH-DTAC-90day-VIP-006",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-006.ovpn"
-
-      },
-
-{
-
-         "name": "TH-GAME-VIP-007",
-
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-007.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-006.ovpn"
 
       },
 
 {
 
-         "name": "TH-GAME-VIP-008",
+         "name": "TH-DTAC-90day-VIP-007",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-008.ovpn"
-
-      },
-
-{
-
-         "name": "TH-GAME-VIP-009",
-
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-009.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-007.ovpn"
 
       },
 
 {
 
-         "name": "TH-GAME-VIP-010",
+         "name": "TH-DTAC-90day-VIP-008",
 
-         "url": "https://raw.githubusercontent.com/PaingPainghein/VIP/main/TH-GAME-VIP-010.ovpn"
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-008.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-90day-VIP-009",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-009.ovpn"
+
+      },
+
+{
+
+         "name": "TH-DTAC-90day-VIP-010",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/dtac-file/TH-DTAC-90day-VIP-010.ovpn"
+
+      },
+
+{
+
+         "name": "TH-True-Social-VIP-001",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-001.ovpn"
+
+      },
+
+{
+
+         "name": "TH-True-Social-VIP-002",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-002.ovpn"
+
+      },
+
+{
+
+         "name": "TH-True-Social-VIP-003",
+
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-003.ovpn"
 
        },
 {
-         "name": "TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-001.ovpn"
+         "name": "TH-True-Social-VIP-004",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-004.ovpn"
        },
 
 {
-         "name": "TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-002.ovpn"
+         "name": "TH-True-Social-VIP-005",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-005.ovpn"
        },
 
 {
-         "name": "TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-003.ovpn"
+         "name": "TH-True-Social-VIP-006",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-006.ovpn"
         },
 {
-         "name": "TH-FREE-004",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-004.ovpn"
+         "name": "TH-True-Social-VIP-007",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-007.ovpn"
        },
 {
-         "name": "TH-FREE-005",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-FREE-005.ovpn"
+         "name": "TH-True-Social-VIP-008",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-008.ovpn"
        },
 {
-         "name": "TH-FREE-AIS-006",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-006.ovpn"
+         "name": "TH-True-Social-VIP-009",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-009.ovpn"
        },
 {
-         "name": "TH-FREE-AIS-007",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-007.ovpn"
-       },
-{
-         "name": "TH-FREE-AIS-008",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/TH-AIS-FREE-008.ovpn"
-       },
-
-{
-         "name": "US-ADS-FREE-001",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-001.ovpn"
-       },
-
-{
-         "name": "US-ADS-FREE-002",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-002.ovpn"
-        },
-{
-         "name": "US-ADS-FREE-003",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/US-FREE-003.ovpn"
-       },
-{
-         "name": "GAME-FREE-001",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/GAME-FREE-001.ovpn"
-       },
-{
-         "name": "GAME-FREE-002",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/GAME-FREE-002.ovpn"
-       },
-{
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-001.ovpn"
-       },
-
-{
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-002.ovpn"
-       },
-
-{
-         "name": "SG-FREE-003",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-003.ovpn"
-        },
-{
-         "name": "SG-FREE-004",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-004.ovpn"
-      },
-{
-         "name": "SG-FREE-005",
-         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/SG-FREE-004.ovpn"
-      }
-
+         "name": "TH-True-Social-VIP-010",
+         "url": "https://raw.githubusercontent.com/MINMINHEIN/ovpn-file-updated/main/true-file/TH-True-Social-VIP-010.ovpn"
+       }
 
    ],
-"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 File📩\n•Version:6\n",
-   "title":"💌APK Version:1.6💌" ,
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞 File📩\n•Version:5\n"VIP တစ်လ၅၀ဘတ်ထဲနဲ့အားပေးလို့ရပါတယ်ခင်​ဗျာ\n
+DTAC 90day 61bth 1ဖိုင်TH🇹🇭
+CB လာမေးပေးပါနော်
+TRUE 3Oday 64bth 1ဖိုင်TH🇹🇭
+30days
+*900*3967# (64ဘတ် )
+TRUR%DTAC,
+   "title":"💌APK Version:1.3💌" ,
    "title":"Paing Paing Hein" ,
- "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 True Dtac Ais Free&VIP💌" ,
-   "version": 6
+ "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 VIP💌" ,
+   "version": 7
 
 }
